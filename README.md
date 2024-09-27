@@ -21,7 +21,8 @@ Run the game: ./TheMaze
 
 Usage
 Objective: Explore the maze, avoid obstacles, and find your way to the exit.
-Screenshots: 
+Screenshots: <img width="422" alt="Screenshot 2024-09-24 211255" src="https://github.com/user-attachments/assets/7502d88a-837b-4c93-91f5-3c9cebd9b5bd">
+
 
 Contributing
 Contributions are welcome! If you have suggestions or improvements for the game, feel free to submit a pull request. To contribute:
